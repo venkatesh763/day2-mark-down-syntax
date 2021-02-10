@@ -25,6 +25,6 @@
 1. ece
 2. eee
 3. cse
-  5. csea
-  8. cseb
+   5. csea
+   8. cseb
 4. civil
