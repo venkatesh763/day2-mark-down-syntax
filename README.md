@@ -76,6 +76,8 @@ def fun();
 - git push remotename branchname
 - git pull remotename branchname
 
+## inserting images
+![image](https://github.com/venkatesh763/day2-mark-down-syntax.git)
 
 
 
