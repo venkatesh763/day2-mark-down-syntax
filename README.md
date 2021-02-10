@@ -79,6 +79,8 @@ def fun();
 ## inserting images
 ![image](https://github.com/venkatesh763/day2-mark-down-syntax.git)
 
-
+## inserting videos
+[![master](https://img.youtube.com/vi/jk8_7PmKPBw/0.jpg)](https://www.youtube.com/watch?v=jk8_7PmKPBw)
+[![master](https://img.youtube.com/vi/jk8_7PmKPBw/0.jpg)](https://www.youtube.com/watch?v=jk8_7PmKPBw)
 
 
